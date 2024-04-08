@@ -1,8 +1,8 @@
-# React + Vite
+# 🚀 HooBank - A Modern Business Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This site was developed to improve my knowledge and UI/UX concepts. It's a project led by [Adrian](https://github.com/adrianhajdin), from the [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) channel, who guides us throughout the development, explaining all the concepts used in a simple and practical way.
 
-Currently, two official plugins are available:
+# 🛠️ Built with
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* [React](https://reactjs.org/) 
+* [Tailwind CSS](https://tailwindcss.com/)
