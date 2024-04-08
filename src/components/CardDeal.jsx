@@ -21,5 +21,4 @@ const CardDeal = () => (
   </section>
 )
 
-
 export default CardDeal
