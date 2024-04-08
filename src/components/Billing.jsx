@@ -3,7 +3,7 @@ import styles, { layout } from '../style';
 
 const Billing = () => (
   <section 
-    key="product" 
+    id="product" 
     className={layout.sectionImgReverse}
   >
     <div className={layout.sectionImgReverse}>
